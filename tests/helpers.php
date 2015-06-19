@@ -6,3 +6,9 @@ if (!defined('app_path')) {
         return __DIR__.'/../src/'.$path;
     }
 }
+
+if (!defined('public_path')) {
+    function public_path($path) {
+        return app_path($path);
+    }
+}
