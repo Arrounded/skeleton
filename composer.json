@@ -22,12 +22,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Arrounded\\": "src"
+            "Arrounded\\:package_name\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Arrounded\\": "tests"
+            "Arrounded\\:package_name\\": "tests"
         }
     },
     "scripts": {
