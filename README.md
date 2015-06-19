@@ -3,6 +3,8 @@
 [![Build Status](http://img.shields.io/travis/arrounded/:package_name.svg?style=flat-square)](https://travis-ci.org/arrounded/:package_name)
 [![Latest Stable Version](http://img.shields.io/packagist/v/arrounded/:package_name.svg?style=flat-square)](https://packagist.org/packages/arrounded/:package_name)
 [![Total Downloads](http://img.shields.io/packagist/dt/arrounded/:package_name.svg?style=flat-square)](https://packagist.org/packages/arrounded/:package_name)
+[![Scrutinizer Quality Score](http://img.shields.io/scrutinizer/g/arrounded/:package_name.svg?style=flat-square)](https://scrutinizer-ci.com/g/arrounded/:package_name/)
+[![Code Coverage](http://img.shields.io/scrutinizer/coverage/g/arrounded/:package_name.svg?style=flat-square)](https://scrutinizer-ci.com/g/arrounded/:package_name/)
 
 To create a new Arrounded module:
 - Copy the contents of this repo
