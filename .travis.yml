@@ -21,4 +21,4 @@ before_install:
 install:
   - travis_retry composer update --no-interaction --prefer-source --dev $PREFER_LOWEST
 
-script: phpunit
+script: composer test
