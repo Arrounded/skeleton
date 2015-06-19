@@ -21,7 +21,7 @@ How the module works
 ## Testing
 
 ``` bash
-$ phpunit
+$ composer test
 ```
 
 ## License
